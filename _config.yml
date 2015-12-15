@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1129032
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7150537
 color:
   saturation: 0.7455197
   brandStrength: 0
-  lightness: 0.1810036
+  rhythmicContrast: 0.3172043
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.3172043
+  lightness: 0.1810036
 layout_spectrum: 0.3817204
 name: Wild Wild Wealth
