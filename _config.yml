@@ -1,3 +1,7 @@
+name: Wild Wild Wealth
+favicon: null
+layout_spectrum: 0.3817204
+typography_spectrum: 0.7150537
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.7150537
+title: Your Wealth Guru for an Inspired Future
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7455197
-  brandStrength: 0
-  rhythmicContrast: 0.3172043
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0
   lightness: 0.1810036
-layout_spectrum: 0.3817204
-name: Wild Wild Wealth
+  saturation: 0.7455197
+  rhythmicContrast: 0.3172043
+purpose: []
