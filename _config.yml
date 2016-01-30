@@ -1,7 +1,7 @@
 name: Wild Wild Wealth
 favicon: null
-layout_spectrum: 0.3817204
-typography_spectrum: 0.7150537
+layout_spectrum: 0.51042
+typography_spectrum: 0.74984
 collections:
   - index:
       path: /
